@@ -1,0 +1,6 @@
+Moved One Item Right: Kedungjenar
+Moved One Item Left: Milan
+4
+locator('xpath=(//ul[contains(@class,\'list-group\')])[2]//li').first()
+locator('xpath=(//ul[contains(@class,\'list-group\')])[2]//li').first()
+Moved All Items Left: undefined
